@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Java backend, Spring AI, RAG, MCP and event-driven systems**
 
-- 📫 Reach me at **shubhamkushwahagd@gmail.com**
+- 📫 Reach me at **rohitkushwahatk98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
