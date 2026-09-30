@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Kushwaha</h1>
-<h3 align="center">Backend Software Engineer | Applied AI | Java, Spring AI, RAG, MCP</h3>
+<h3 align="center">Full Stack Engineer | Backend &amp; Applied AI | Java, Spring AI, RAG, MCP</h3>
 
 - 🔭 I'm a **Backend Software Engineer at IBM India Software Labs, Bengaluru**, on the **AppLinX Modernization** team (enterprise host integration platform serving 1,000+ enterprise clients)
 
